@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+  Major Features:
+    - Prototype release. Mod forked from Artillery Combinator by Qon, which was forked from Circuit Map Pinger by SpaceCat-Chan.
+
